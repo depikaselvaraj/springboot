@@ -1,0 +1,6 @@
+insert into USER(username,email,date,address,phone,posh,xfc,isms,emp)values('deepi','deepi@1808','19-08-1999','erode','123456789','passed','failed','bending','passed')
+insert into USER(username,email,date,address,phone,posh,xfc,isms,emp)values('mona','mona@1808','19-03-1999','perundurai','123458769','passed','passed','bending','passed')
+insert into USER(username,email,date,address,phone,posh,xfc,isms,emp)values('madhu','madhu@1808','20-08-1999','thindal','123457896','bending','bending','failed','failed')
+insert into USER(username,email,date,address,phone,posh,xfc,isms,emp)values('selva','selva@1808','21-09-1999','madurai','123498765','failed','failed','failed','passed')
+insert into USER(username,email,date,address,phone,posh,xfc,isms,emp)values('abi','abi@1808','22-07-1999','bangalore','543217896','passed','bending','failed','bending')
+insert into USER(username,email,date,address,phone,posh,xfc,isms,emp)values('kavi','kavi@1808','23-11-1999','namakkal','987654321','bending','bending','passed','bending')
